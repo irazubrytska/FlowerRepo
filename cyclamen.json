@@ -1,0 +1,12 @@
+{
+    "name": "cyclamen",
+    "description": {
+        "origin": "Persia",
+        "blooming": "Fall"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk"
+    }
+}

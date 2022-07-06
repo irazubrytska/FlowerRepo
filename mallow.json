@@ -1,0 +1,12 @@
+{
+    "name": "mallow",
+    "description": {
+        "origin": "Greece",
+        "blooming": "Summer(Mid, Late), Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Average",
+        "soil": " Clay, Loam, Sand"
+    }
+}

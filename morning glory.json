@@ -1,0 +1,12 @@
+{
+    "name": "morning glory",
+    "description": {
+        "origin": " Central and South America",
+        "blooming": "Spring(Mid, Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": "Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "carnation",
+    "description": {
+        "origin": "Greece, Italy, Spain",
+        "blooming": "All year"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Chalk, Sand"
+    }
+}

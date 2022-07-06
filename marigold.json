@@ -1,0 +1,12 @@
+{
+    "name": "marigold",
+    "description": {
+        "origin": "Mexico and Guatemala",
+        "blooming": "Spring(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Average",
+        "soil": "Loam, Sand"
+    }
+}

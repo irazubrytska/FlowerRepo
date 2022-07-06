@@ -1,0 +1,12 @@
+{
+    "name": "hippeastrum",
+    "description": {
+        "origin": "Brazil",
+        "blooming": "Spring(Late), Summer(Early), Fall "
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "corn poppy",
+    "description": {
+        "origin": "Europe, North Africa",
+        "blooming": "Spring(Late), Summer(Early)"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Loam, Sand"
+    }
+}

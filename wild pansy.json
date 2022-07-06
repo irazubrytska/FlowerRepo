@@ -1,0 +1,14 @@
+{
+    "name": "wild pansy",
+    "description": {
+        "origin": "Eurasia",
+        "blooming": "Spring, Summer"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Average",
+        "soil": "Clay, Loam, Sand"
+
+    }
+}

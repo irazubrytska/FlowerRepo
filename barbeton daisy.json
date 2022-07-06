@@ -1,0 +1,12 @@
+{
+    "name": "barberton daisy",
+    "description": {
+        "origin": "South Eastern Africa",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

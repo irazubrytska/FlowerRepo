@@ -1,0 +1,14 @@
+{
+    "name": "trumpet creeper",
+    "description": {
+        "origin": "Asia",
+        "blooming": "Summer"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Low, Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+
+    }
+}

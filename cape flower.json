@@ -1,0 +1,12 @@
+{
+    "name": "cape flower",
+    "description": {
+        "origin": "South Africa",
+        "blooming": "Summer(Late), Fall"
+    },
+    "maintenance": {
+        "sunlight": "Partial, Full Sun",
+        "watering": "Average",
+        "soil": "Chalk"
+    }
+}

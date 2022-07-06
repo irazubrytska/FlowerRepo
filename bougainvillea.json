@@ -1,0 +1,12 @@
+{
+    "name": "bougainvillea",
+    "description": {
+        "origin": "South America",
+        "blooming": "Spring, Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Loam, Sand"
+    }
+}

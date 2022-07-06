@@ -1,0 +1,12 @@
+{
+    "name": "garden phlox",
+    "description": {
+        "origin": "northeastern Asia",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Chalk"
+    }
+}

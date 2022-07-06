@@ -1,0 +1,14 @@
+{
+    "name": "water lily",
+    "description": {
+        "origin": "Europe",
+        "blooming": "Spring, Fall, Winter "
+
+    },
+    "maintenance": {
+        "sunlight": "Partial sun, Shade",
+        "watering": "Average",
+        "soil": "Clay, Loam, Sand"
+
+    }
+}

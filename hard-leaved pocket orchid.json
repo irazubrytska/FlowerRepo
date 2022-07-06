@@ -1,0 +1,12 @@
+{
+    "name": "hard-leaved pocket orchid",
+    "description": {
+        "origin": "China",
+        "blooming": "Spring(Late), Summer, Fall "
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Loam"
+    }
+}

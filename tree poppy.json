@@ -1,0 +1,14 @@
+{
+    "name": "tree poppy",
+    "description": {
+        "origin": "Santa Cruz and Santa Rosa Island",
+        "blooming": "Spring, Summer, Fall, Winter"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Low",
+        "soil": "Clay, Loam, Sand"
+
+    }
+}

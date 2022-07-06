@@ -1,0 +1,12 @@
+{
+    "name": "bromelia",
+    "description": {
+        "origin": "warm jungles of Uruguay",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Loam, Sand"
+    }
+}

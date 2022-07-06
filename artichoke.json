@@ -1,0 +1,12 @@
+{
+    "name": "artichoke",
+    "description": {
+        "origin": "Mediterranean and the Canary Islands",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "king protea",
+    "description": {
+        "origin": "South Africa",
+        "blooming": "Spring, Summer, Fall, Winter "
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low, Average",
+        "soil": "Loam, Sand"
+    }
+}

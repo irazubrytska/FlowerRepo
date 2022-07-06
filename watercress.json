@@ -1,0 +1,12 @@
+{
+    "name": "watercress",
+    "description": {
+        "origin": "verbal phrase warm up",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Partial shade, Full sun",
+        "watering": "Avarage",
+        "soil": "Chalky, Clay, Loamy, Sandy"
+    }
+}

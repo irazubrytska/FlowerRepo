@@ -1,0 +1,12 @@
+{
+    "name": "bee balm",
+    "description": {
+        "origin": "eastern United States and southeastern Canada",
+        "blooming": "Spring(Late), Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

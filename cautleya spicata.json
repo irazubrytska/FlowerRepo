@@ -1,0 +1,12 @@
+{
+    "name": "cattleya spicata",
+    "description": {
+        "origin": "Central and South America",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "few hours a day of solar light",
+        "watering": "regularly",
+        "soil": "averagely drained cultivation substratum"
+    }
+}

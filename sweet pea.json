@@ -1,0 +1,14 @@
+{
+    "name": "sweet pea",
+    "description": {
+        "origin": "southern Italy and the Aegean Islands",
+        "blooming": "Spring(Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Low, Average",
+        "soil": "Loam, Sand"
+
+
+    }
+}

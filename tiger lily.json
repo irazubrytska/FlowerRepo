@@ -1,0 +1,14 @@
+{
+    "name": "tiger lily",
+    "description": {
+        "origin": "Asia",
+        "blooming": "Summer(Late)"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "camellia",
+    "description": {
+        "origin": "southern Japan",
+        "blooming": "Fall, Winter, Spring(Early, Mid)"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam"
+    }
+}

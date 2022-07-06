@@ -1,0 +1,12 @@
+{
+    "name": "desert-rose",
+    "description": {
+        "origin": "Egypt",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "bright light",
+        "watering": "little",
+        "soil": "poor sandy"
+    }
+}

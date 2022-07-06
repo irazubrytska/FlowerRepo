@@ -1,0 +1,12 @@
+{
+    "name": "pelargonium",
+    "description": {
+        "origin": "southern Africa (including Namibia) and Australia.",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low, Average",
+        "soil": "Loam, Sand"
+    }
+}

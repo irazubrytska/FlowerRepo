@@ -1,0 +1,12 @@
+{
+    "name": "sunflower",
+    "description": {
+        "origin": "Canada",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Low",
+        "soil": "Clay, Loam, Sand"
+    }
+}

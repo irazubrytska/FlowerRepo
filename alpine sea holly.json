@@ -1,0 +1,12 @@
+{
+    "name": "alpine sea holly",
+    "description": {
+        "origin": "Native to alpine pastures of Switzerland",
+        "blooming": "Summer(Mid,Late)"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low needs",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "thorn apple",
+    "description": {
+        "origin": "Central America",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Heavy",
+        "soil": "Compost"
+    }
+}

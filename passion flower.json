@@ -1,0 +1,12 @@
+{
+    "name": "passion flower",
+    "description": {
+        "origin": "Peru",
+        "blooming": "Spring(Mid,Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

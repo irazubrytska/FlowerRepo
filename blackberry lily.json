@@ -1,0 +1,12 @@
+{
+    "name": "blackberry lily",
+    "description": {
+        "origin": "eastern Russia, China and Japan",
+        "blooming": "Summer(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam"
+    }
+}

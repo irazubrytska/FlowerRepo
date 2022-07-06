@@ -1,0 +1,12 @@
+{
+    "name": "californian poppy",
+    "description": {
+        "origin": "North America from Western Oregon to Baja California",
+        "blooming": "Spring, Summer, Fall, Winter"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Well-Drained Loam"
+    }
+}

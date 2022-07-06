@@ -1,0 +1,12 @@
+{
+    "name": "oxeye daisy",
+    "description": {
+        "origin": "Europe and temperate regions of Asi",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "great masterwort",
+    "description": {
+        "origin": "central and eastern Europe",
+        "blooming": "Spring(Late), Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay"
+    }
+}

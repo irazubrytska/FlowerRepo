@@ -1,0 +1,12 @@
+{
+    "name": "fritillary",
+    "description": {
+        "origin": "Persia (Iran)",
+        "blooming": "Spring(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

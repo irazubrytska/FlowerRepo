@@ -1,0 +1,14 @@
+{
+    "name": "yellow iris",
+    "description": {
+        "origin": "Native to Europe, Africa, Asia",
+        "blooming": "Spring(Late), Summer(Early)"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "High",
+        "soil": "Clay, Loam"
+
+    }
+}

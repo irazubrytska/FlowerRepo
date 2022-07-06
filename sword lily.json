@@ -1,0 +1,14 @@
+{
+    "name": "sword lily",
+    "description": {
+        "origin": "Europe, Africa",
+        "blooming": "Summer"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+
+    }
+}

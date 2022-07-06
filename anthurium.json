@@ -1,0 +1,12 @@
+{
+    "name": "anthurium",
+    "description": {
+        "origin": "originates from the rain forests of Colombia",
+        "blooming": "Spring, Summer, Fall, Winter"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Loam, Sand"
+    }
+}

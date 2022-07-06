@@ -1,0 +1,12 @@
+{
+    "name": "balloon flower",
+    "description": {
+        "origin": "East Asia",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial Sun",
+        "watering": "Average",
+        "soil": "Loam"
+    }
+}

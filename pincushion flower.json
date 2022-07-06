@@ -1,0 +1,12 @@
+{
+    "name": "pincushion flower",
+    "description": {
+        "origin": "Eurasia, the Mediterranean region, and the mountains of eastern Africa",
+        "blooming": "Spring(Late) Summer Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

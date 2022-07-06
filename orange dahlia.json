@@ -1,0 +1,12 @@
+{
+    "name": "orange dahlia",
+    "description": {
+        "origin": "Mexico and Central America",
+        "blooming": "Summer(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam, Sand"
+    }
+}

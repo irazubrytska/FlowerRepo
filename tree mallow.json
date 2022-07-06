@@ -1,0 +1,14 @@
+{
+    "name": "tree mallow",
+    "description": {
+        "origin": "western Mediterranean",
+        "blooming": "Summer, Fall"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": "Chalk, Loam, Sand"
+
+    }
+}

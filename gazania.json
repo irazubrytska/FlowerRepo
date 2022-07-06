@@ -1,0 +1,12 @@
+{
+    "name": "gazania",
+    "description": {
+        "origin": "Southern Africa",
+        "blooming": "Spring(Late), Summer(Early)"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Loam, Sand"
+    }
+}

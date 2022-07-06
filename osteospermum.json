@@ -1,0 +1,12 @@
+{
+    "name": "osteospermum",
+    "description": {
+        "origin": "South Africa",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low, Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

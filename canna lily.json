@@ -1,0 +1,12 @@
+{
+    "name": "canna lily",
+    "description": {
+        "origin": "North and South America",
+        "blooming": "Summer(Mid, Late), Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

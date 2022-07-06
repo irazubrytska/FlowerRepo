@@ -1,0 +1,12 @@
+{
+    "name": "siam tulip",
+    "description": {
+        "origin": "Kazakhstan",
+        "blooming": "Spring(Early, Mid)"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

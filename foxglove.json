@@ -1,0 +1,12 @@
+{
+    "name": "foxglove",
+    "description": {
+        "origin": "Mediterranean region",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Low",
+        "soil": "Sand"
+    }
+}

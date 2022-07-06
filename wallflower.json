@@ -1,0 +1,14 @@
+{
+    "name": "wallflower",
+    "description": {
+        "origin": "Europe",
+        "blooming": "Spring(Mid, Late) Summer(Early, Mid)"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+
+    }
+}

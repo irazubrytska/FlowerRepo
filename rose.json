@@ -1,0 +1,13 @@
+{
+    "name": "rose",
+    "description": {
+        "origin": "Euorope",
+        "blooming": "Spring(Late), Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": "Chalk, Loam, Sand
+"
+    }
+}

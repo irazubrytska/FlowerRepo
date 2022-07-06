@@ -1,0 +1,12 @@
+{
+    "name": "magnolia",
+    "description": {
+        "origin": "Southern China and the Southern United States",
+        "blooming": "Spring(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam, Sand"
+    }
+}

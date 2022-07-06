@@ -1,0 +1,12 @@
+{
+    "name": "mexican aster",
+    "description": {
+        "origin": "Mexico",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

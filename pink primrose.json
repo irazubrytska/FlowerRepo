@@ -1,0 +1,12 @@
+{
+    "name": "pink primrose",
+    "description": {
+        "origin": "western and southern Europe, northwest Africa",
+        "blooming": "Spring(Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Loam, Sand"
+    }
+}

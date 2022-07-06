@@ -1,0 +1,12 @@
+{
+    "name": "silverbush",
+    "description": {
+        "origin": "Croatian islands, Albania and Italy",
+        "blooming": "Spring(Late) Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "bird of paradise",
+    "description": {
+        "origin": "South Africa",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

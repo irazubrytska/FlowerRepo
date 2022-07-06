@@ -1,0 +1,12 @@
+{
+    "name": "frangipani",
+    "description": {
+        "origin": "Central America, Mexico and Venezuela",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "Loam, Sand"
+    }
+}

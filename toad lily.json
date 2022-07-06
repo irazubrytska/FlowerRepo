@@ -1,0 +1,14 @@
+{
+    "name": "toad lily",
+    "description": {
+        "origin": "eastern Asia",
+        "blooming": "Summer(Late), Fall"
+
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun, Shade",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+
+    }
+}

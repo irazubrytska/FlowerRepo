@@ -1,0 +1,12 @@
+{
+    "name": "peruvian lily",
+    "description": {
+        "origin": "Peru",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

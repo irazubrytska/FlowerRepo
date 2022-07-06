@@ -1,0 +1,12 @@
+{
+    "name": "purple coneflower",
+    "description": {
+        "origin": "eastern and central North America",
+        "blooming": "Summer(Early,Mid)"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low, Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

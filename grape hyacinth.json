@@ -1,0 +1,12 @@
+{
+    "name": "grape hyacinth",
+    "description": {
+        "origin": "southeastern Europe",
+        "blooming": "Spring(Mid, Late)"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

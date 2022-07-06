@@ -1,0 +1,12 @@
+{
+    "name": "english marigold",
+    "description": {
+        "origin": "southern Europe",
+        "blooming": "Spring(Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Loam"
+    }
+}

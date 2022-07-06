@@ -1,0 +1,12 @@
+{
+    "name": "prince of wales feathers",
+    "description": {
+        "origin": "Mexico",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "soil": "well-drained fertile"
+    }
+}

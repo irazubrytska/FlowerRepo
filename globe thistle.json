@@ -1,0 +1,12 @@
+{
+    "name": "globe thistle",
+    "description": {
+        "origin": "mountains of tropical Africa",
+        "blooming": "Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Low",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

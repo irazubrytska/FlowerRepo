@@ -1,0 +1,12 @@
+{
+    "name": "geranium",
+    "description": {
+        "origin": "South Africa",
+        "blooming": "Spring(Late), Summer"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

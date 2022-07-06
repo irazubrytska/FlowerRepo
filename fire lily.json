@@ -1,0 +1,12 @@
+{
+    "name": "fire lily",
+    "description": {
+        "origin": "southern Africa",
+        "blooming": "Spring(Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Loam"
+    }
+}

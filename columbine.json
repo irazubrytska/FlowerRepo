@@ -1,0 +1,12 @@
+{
+    "name": "columbine",
+    "description": {
+        "origin": "Eastern Europe and Central Asia",
+        "blooming": "Spring(late), Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

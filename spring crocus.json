@@ -1,0 +1,12 @@
+{
+    "name": "spring crocus",
+    "description": {
+        "origin": "Alps, southern Europe, and the Mediterranean area",
+        "blooming": "Spring"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Sand"
+    }
+}

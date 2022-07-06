@@ -1,0 +1,12 @@
+{
+    "name": "lotus",
+    "description": {
+        "origin": "California",
+        "blooming": "Spring, Summer"
+    },
+    "maintenance": {
+        "sunlight": "Full sun",
+        "watering": "Low",
+        "soil": " Loam, Sand"
+    }
+}

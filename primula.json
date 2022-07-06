@@ -1,0 +1,12 @@
+{
+    "name": "primula",
+    "description": {
+        "origin": "California",
+        "blooming": "Spring(Early, Mid)"
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",
+        "watering": "Low",
+        "soil": "Clay, Loam, Sand"
+    }
+}

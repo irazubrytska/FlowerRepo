@@ -1,0 +1,12 @@
+{
+    "name": "black-eyed susan",
+    "description": {
+        "origin": "Eastern and Central North America",
+        "blooming": "Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam"
+    }
+}

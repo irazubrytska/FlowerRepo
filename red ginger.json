@@ -1,0 +1,12 @@
+{
+    "name": "red ginger",
+    "description": {
+        "origin": "southeastern Asia",
+        "blooming": "All year"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Clay, Loam"
+    }
+}

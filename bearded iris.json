@@ -1,0 +1,12 @@
+{
+    "name": "bearded iris",
+    "description": {
+        "origin": "Mediterranean region",
+        "blooming": "Spring(Late), Summer(Early)"
+    },
+    "maintenance": {
+        "sunlight": "Full Sun",
+        "watering": "Average",
+        "soil": "Loam, Sand"
+    }
+}

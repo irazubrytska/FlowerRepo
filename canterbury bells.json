@@ -1,0 +1,12 @@
+{
+    "name": "canterbury bells",
+    "description": {
+        "origin": "Southern Europe",
+        "blooming": "spring(Late), Summer(Early, Mid)"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

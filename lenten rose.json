@@ -1,0 +1,12 @@
+{
+    "name": "lenten rose",
+    "description": {
+        "origin": "Greece and Turkey",
+        "blooming": "Spring(Early), Winter"
+    },
+    "maintenance": {
+        "sunlight": "Partial sun, Shade",
+        "watering": "Average",
+        "soil": "Chalk, Loam, Sand"
+    }
+}

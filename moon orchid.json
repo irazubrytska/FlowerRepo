@@ -1,0 +1,12 @@
+{
+    "name": "moon orchid",
+    "description": {
+        "origin": "Japan or China",
+        "blooming": "Spring(Late), Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "Partial Sun",
+        "watering": "Average",
+        "soil": "Loam"
+    }
+}

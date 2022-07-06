@@ -1,0 +1,12 @@
+{
+    "name": "spear thistle",
+    "description": {
+        "origin": "Pakistan and China",
+        "blooming": "Spring, Summer, Fall"
+    },
+    "maintenance": {
+        "sunlight": "any",
+        "watering": "Low",
+        "soil": "any"
+    }
+}

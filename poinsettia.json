@@ -1,0 +1,12 @@
+{
+    "name": "poinsettia",
+    "description": {
+        "origin": "Mexico and Central America",
+        "blooming": "Summer Fall"
+    },
+    "maintenance": {
+        "sunlight": "Mexico and Central America",
+        "watering": "Average",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

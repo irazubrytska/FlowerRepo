@@ -1,0 +1,14 @@
+{
+    "name": "sweet william",
+    "description": {
+        "origin": "Mediterranean, southern and central Europe",
+        "blooming": "Spring(Late), Summer"
+
+    },
+    "maintenance": {
+        "sunlight": "Full sun, Partial sun",",
+        "watering": "Average",
+        "soil": " Loam, Sand"
+
+    }
+}

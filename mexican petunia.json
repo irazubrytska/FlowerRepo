@@ -1,0 +1,12 @@
+{
+    "name": "mexican petunia",
+    "description": {
+        "origin": "Mexico, the Caribbean, and South America",
+        "blooming": "Summer(Mid, Late), Fall"
+    },
+    "maintenance": {
+        "sunlight": "Full, Partial Sun",
+        "watering": "Low, Average, High",
+        "soil": "Chalk, Clay, Loam, Sand"
+    }
+}

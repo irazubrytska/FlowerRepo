@@ -1,0 +1,14 @@
+{
+    "name": "dracena",
+    "description": {
+        "origin": "Canary Islands",
+        "blooming": "Spring"
+
+    },
+    "maintenance": {
+        "sunlight": "Medium",
+        "watering": "every 10-14 days",
+        "soil": "rich soil with ample drainage"
+
+    }
+}

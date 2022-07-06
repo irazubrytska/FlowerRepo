@@ -1,0 +1,14 @@
+{
+    "name": "calla",
+    "description": {
+        "origin": "South Africa and Malawi",
+        "blooming": "Summer, Fall"
+
+    },
+    "maintenance": {
+        "sunlight": "Partial sun",
+        "watering": "High",
+        "soil": "Clay, Loam, Sand"
+
+    }
+}
